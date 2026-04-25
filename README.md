@@ -1,16 +1,41 @@
-## Hi there 👋
+👋 Fala, eu sou o Bruno Gabriel
 
-<!--
-**brunogabrielnunesdev/brunogabrielnunesdev** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
+🎯 Backend Developer focado em Java + Spring Boot
+🚀 Construindo o projeto DevNest
+💡 Focado em evoluir para um nível alto em backend e arquitetura de sistemas
 
-Here are some ideas to get you started:
+🧠 Sobre mim
+🇧🇷 Brasileiro
+📚 Estudando desenvolvimento há 4+ anos
+🔥 Focado em backend, APIs e sistemas reais
+⚡ Aprendo rápido e gosto de resolver problemas na prática
+🛠️ Stack
+Backend: Java, Spring Boot
+Banco de dados: PostgreSQL, MySQL
+Frontend: React (básico)
+Outros: Git, GitHub, APIs REST
+🚀 Projeto Principal
+🔥 DevNest
 
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
+Plataforma de cursos com:
+
+Sistema de módulos e aulas
+Quiz com regras de validação
+Comentários nas aulas
+Autenticação com JWT
+
+📌 Link do repositório em breve
+
+📈 Objetivo atual
+Conseguir minha primeira vaga como Dev Backend Jr
+Evoluir em arquitetura e segurança de API
+
+
+
+
+
+
+
+📫 Contato
+LinkedIn: (colocar depois)
+Email: (opcional)
